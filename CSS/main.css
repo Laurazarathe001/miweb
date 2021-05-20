@@ -1,6 +1,22 @@
 body {
+<<<<<<< HEAD
 
 background: #fff;
 color: blue;
+=======
+	background: #fff;
+	color: #000;
+}
+
+h1{
+
+font-size: 20px;
+margin-bottom: 10px;
+
+}
+
+p{
+color: #ddd;
+>>>>>>> nuevosEstilos
 
 }
