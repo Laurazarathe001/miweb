@@ -1,22 +1,19 @@
-body {
-<<<<<<< HEAD
+.container {
 
-background: #fff;
-color: blue;
-=======
-	background: #fff;
-	color: #000;
-}
-
-h1{
-
-font-size: 20px;
-margin-bottom: 10px;
+max-width: 1000px;
+margin: 0 auto;
 
 }
 
-p{
-color: #ddd;
->>>>>>> nuevosEstilos
+header {
 
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+ul {
+
+	display: flex;
+	align-items: center;
 }
