@@ -16,4 +16,14 @@ ul {
 
 	display: flex;
 	align-items: center;
+<<<<<<< HEAD
+=======
+	list-style: none;
+}
+
+li {
+
+
+	margin-right: 0;
+>>>>>>> 9b83702 (Commit 4)
 }
