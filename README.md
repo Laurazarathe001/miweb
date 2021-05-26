@@ -1,10 +1,8 @@
 # miweb
 Aqui seguiremos el paso a paso
 
-- Paso 1: Se comienza el proyecto
+# Presentación
 
-# Hola a todos
-## Me presento
-Mi nombre es Laura Zarathe 
+Hola a todos, mi nombre es Laura Zárathe y estoy realizando un pequeño repositorio de prueba para el curso que llevo en linea llamado "Git & GitHub"
 
-- Item
+## El paso a paso de la creación de la aplicación estara aquí:
